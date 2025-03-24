@@ -2,20 +2,18 @@
 IWFU is designed as a federated forget algorithm, which makes use of the characteristics of the sample data to achieve faster forget acceleration.
 
 Directory structure
-├── Readme.md                   // help
-├── FL_TEST                     // IWFU 
-│   ├── default.json
-│   ├── dev.json                // 开发环境
-│   ├── experiment.json         // 实验
-│   ├── index.js                // 配置控制
-│   ├── local.json              // 本地
-│   ├── production.json         // 生产环境
-│   └── test.json               // 测试环境
-├── config                      // 配置
-│   ├── default.json
-│   ├── dev.json                // 开发环境
-│   ├── experiment.json         // 实验
-│   ├── index.js                // 配置控制
-│   ├── local.json              // 本地
-│   ├── production.json         // 生产环境
-│   └── test.json               // 测试环境
+project-name/
+│
+├── dir1/
+│   ├── file1.ext
+│   └── file2.ext
+│
+├── dir2/
+│   ├── sub-dir1/
+│   │   └── file3.ext
+│   └── sub-dir2/
+│
+└── dir3/
+    ├── file4.ext
+    └── file5.ext
+
