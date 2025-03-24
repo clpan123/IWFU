@@ -4,16 +4,21 @@ IWFU is designed as a federated forget algorithm, which makes use of the charact
 Directory structure
 project-name/  
 │  
-├── dir1/  
-│   ├── file1.ext  
-│   └── file2.ext  
+├── FL_TEST/  
+│   ├── get_data.py  
+│   ├── get_model.py.py  
+│   ├── main.py  
+│   ├── main_recovery.py  
+│   ├── main_unlearn.py  
+│   ├── main_recovery.py  
+│   ├── my_client.py  
+│   ├── My_server.py 
+│   └── utils.py  
 │  
 ├── dir2/  
 │   ├── sub-dir1/  
 │   │   └── file3.ext  
 │   └── sub-dir2/  
 │  
-└── dir3/  
-    ├── file4.ext  
-    └── file5.ext  
+└── ├── README.md 
 
