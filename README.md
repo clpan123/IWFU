@@ -16,12 +16,12 @@ project-name/
 │   └── utils.py  
 │  
 ├── ML_TEST/  
-│   ├── get_data.py/  
-│   ├── get_model.py/  
+│   ├── get_data.py  
+│   ├── get_model.py    
 │   ├── main.py/  
-│   ├── recovery_main.py/  
-│   ├── un_main.py/  
-│   ├── utils.py/  
+│   ├── recovery_main.py  
+│   ├── un_main.py  
+│   ├── utils.py  
 │  
 └── ├── README.md 
 
