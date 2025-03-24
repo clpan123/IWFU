@@ -15,10 +15,13 @@ project-name/
 │   ├── My_server.py 
 │   └── utils.py  
 │  
-├── dir2/  
+├── ML_TEST/  
 │   ├── sub-dir1/  
-│   │   └── file3.ext  
-│   └── sub-dir2/  
+│   ├── sub-dir1/  
+│   ├── sub-dir1/  
+│   ├── sub-dir1/  
+│   ├── sub-dir1/  
+│   ├── sub-dir1/  
 │  
 └── ├── README.md 
 
